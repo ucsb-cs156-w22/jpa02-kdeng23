@@ -5,16 +5,12 @@
   to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
   this TODO item.
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
+* Repo: 
   https://github.com/ucsb-cs156-w22/jpa02-kdeng23
 
 Repo: https://ucsb-cs156-w22/STARTER-jpa02
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
+* Heroku app:
   https://jpa02-kdeng.herokuapp.com/
 
 
